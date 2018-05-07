@@ -1,0 +1,23 @@
+TP 2 UPDATES - The Harmonograph
+
+TP1:
+- gear-arm drawing system
+
+TP2:
+- parametric equations are used to compute the position of the points. The core hard-math part is done :D!
+- I structured the file as a multi-modal game
+- I started structuring features such as drawing speed/color
+
+To do list:
+
+- manage speed/timerfired
+- set GUI (slider buttons)
+- polish all features
+- improve drawing graphics
+- include export .jpg feature
+
+
+Total time so far: 33h
+
+
+Cecilia
